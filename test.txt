@@ -1,5 +1,17 @@
 Congratulations ....! you made it .
-Congratulations ....! you made it .
-Congratulations ....! you made it .
-Congratulations ....! you made it .
+GIt ti GitHub integration :
+First time :
+git init                --> it will create .git (hidden file with 6 directories)
+where git				--> git installation path
+git --version			--> git version
+git status              --> to know the git status
+git add .				--> adding the files 
+git commit -m "test sek"--> commit
+
+Error : who you are (github email & username)
+git config --global user.email "sekhar463@gmail.com"
+git config --global user.name "sekhar463"
+ git remote add origin https://github.com/sekhar463/testGit.git
+git push -u origin master  --> to push the code to github
+
 
