@@ -10,3 +10,44 @@ Kitchen (YML FILE)
 Ruby + chef SYNTAXES
 CHEF TUTORIALS:
 https://docs.chef.io/ruby.html
+
+chef DK : 
+https://www.chef.io/chef/
+vagrant:
+https://www.vagrantup.com/
+Virtual Box:
+https://www.virtualbox.org/
+Kitchen (YML FILE)
+Ruby + chef SYNTAXES
+CHEF TUTORIALS:
+https://docs.chef.io/ruby.html
+chef DK : 
+https://www.chef.io/chef/
+vagrant:
+https://www.vagrantup.com/
+Virtual Box:
+https://www.virtualbox.org/
+Kitchen (YML FILE)
+Ruby + chef SYNTAXES
+CHEF TUTORIALS:
+https://docs.chef.io/ruby.html
+chef DK : 
+https://www.chef.io/chef/
+vagrant:
+https://www.vagrantup.com/
+Virtual Box:
+https://www.virtualbox.org/
+Kitchen (YML FILE)
+Ruby + chef SYNTAXES
+CHEF TUTORIALS:
+https://docs.chef.io/ruby.html
+chef DK : 
+https://www.chef.io/chef/
+vagrant:
+https://www.vagrantup.com/
+Virtual Box:
+https://www.virtualbox.org/
+Kitchen (YML FILE)
+Ruby + chef SYNTAXES
+CHEF TUTORIALS:
+https://docs.chef.io/ruby.html
