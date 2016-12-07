@@ -1,0 +1,41 @@
+{
+  "Id": "40361318-0320-4a4d-b7e5-3089f5fc8069",
+  "Name": "Script created at 2016-12-07 23:20.",
+  "ObjectIds": [
+    {
+      "Name": "BusinessEntity",
+      "Owner": "Person",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "Person",
+      "Owner": "Person",
+      "ObjectType": "Table"
+    },
+    {
+      "Name": "NameStyle",
+      "Owner": "dbo",
+      "ObjectType": "UserDefinedType_UserDefinedDataType"
+    },
+    {
+      "Name": "Name",
+      "Owner": "dbo",
+      "ObjectType": "UserDefinedType_UserDefinedDataType"
+    },
+    {
+      "Name": "AdditionalContactInfoSchemaCollection",
+      "Owner": "Person",
+      "ObjectType": "XmlSchemaCollection"
+    },
+    {
+      "Name": "IndividualSurveySchemaCollection",
+      "Owner": "Person",
+      "ObjectType": "XmlSchemaCollection"
+    },
+    {
+      "Name": "Person",
+      "Owner": null,
+      "ObjectType": "Schema"
+    }
+  ]
+}
